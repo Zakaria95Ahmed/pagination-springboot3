@@ -1,0 +1,11 @@
+net\zagzag\paginations\models\HttpResponse$HttpResponseBuilder.class
+net\zagzag\paginations\models\HttpResponse.class
+net\zagzag\paginations\repostitories\UserRepository.class
+net\zagzag\paginations\services\implementation\UserServiceImpl.class
+net\zagzag\paginations\services\UserService.class
+net\zagzag\paginations\models\HttpResponse$HttpResponseBuilderImpl.class
+net\zagzag\paginations\models\User$UserBuilder.class
+net\zagzag\paginations\models\User.class
+net\zagzag\paginations\resources\UserResource.class
+net\zagzag\paginations\PaginationApplication.class
+net\zagzag\paginations\models\User$UserBuilderImpl.class
